@@ -1,1 +1,2 @@
+What I have learned from this course
 I have gained insightful ideas on how to use git commands
